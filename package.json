@@ -13,7 +13,7 @@
     "stop": "echo 'No stop functionality (use Ctrl+C to stop)'",
     "restart": "echo 'No restart functionality (use manual restart)'"
   },
-  "author": "QUEEN-RASHU-MD OWNER",
+  "author": "SANIJA-MD OWNER",
   "license": "ISC",
   "description": "rashu-md pair",
   "dependencies": {
